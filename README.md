@@ -1,0 +1,1 @@
+A basic recipe website to demonstrate the HTML practices taught in the foundational section of TOP(The Odin Project)

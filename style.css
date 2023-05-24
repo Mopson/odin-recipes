@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+.recipe-link {
+    font-size: 36px;
+}
+
+h1,
+h2,
+h3 {
+    text-decoration: underline;
+}
+
+.main-header {
+    color: black;
+    text-align: center;
+}
+
+ul,
+ol {
+    background-color: rgb(81, 228, 81);
+}
